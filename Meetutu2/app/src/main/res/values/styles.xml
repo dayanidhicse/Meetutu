@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/nliveo_cyan_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_cyan_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_cyan_colorPrimaryDark</item>
+    </style>
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/nliveo_cyan_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_cyan_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_cyan_colorPrimaryDark</item>
+    </style>
+    <style name="nLiveoDrawer" parent="Theme.nLiveo">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/nliveo_cyan_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_cyan_alpha_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_cyan_colorPrimaryDark</item>
+    </style>
+    <style name="AppTheme1.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme1.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
